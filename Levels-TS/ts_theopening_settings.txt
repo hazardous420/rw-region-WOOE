@@ -1,0 +1,13 @@
+Template: NONE
+Clouds: 0
+Palette: 53
+EffectColorA: 13
+EffectColorB: 13
+TerrainLight: 0.5386658
+TerrainStainAmount: 0
+TerrainGrain: 0.3345324
+TerrainSkyFade: 0
+Effects: SkyBloom-1-234.8604-61.24445, SkyAndLightBloom-0-20-20, LightBurn-1-258.3781-140.9333, 
+FadePalette: 42, 0.162398, 0.1623986
+BackgroundOffset: 0,541.3252
+BackgroundType: atc_oe_treetopview
