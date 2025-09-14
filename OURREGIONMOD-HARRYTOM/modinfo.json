@@ -1,0 +1,12 @@
+{
+  "id": "hazardousIcedRegion",
+  "name": "OURREGIONMOD",
+  "version": "1.0.0",
+  "hide_version": false,
+  "authors": "__hazardous_, IcedK12",
+  "description": "temp",
+  "requirements": ["crs"],
+  "requirements_names": ["Custom Regions Support"],
+  "checksum_override_version": false,
+  "tags": [ "Regions" ]
+}
