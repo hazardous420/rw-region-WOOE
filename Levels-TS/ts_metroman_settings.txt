@@ -1,0 +1,18 @@
+Template: NONE
+WaveSpeed: 0.4997704
+WaveLength: 0.9998852
+WaveAmplitude: 0.04977439
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3695652
+Grime: 0
+BkgDroneVolume: 0.2891305
+Palette: 53
+EffectColorA: 13
+EffectColorB: 13
+Effects: Bloom-0.4045404-83-63, TinyDragonFly-0.07733237-20-20, SunBlock-0-766.3594-448.8445, 
+PlacedObjects: DangleFruit><806.2452><935.4355><125.2167~0~2~3, DangleFruit><841.1937><959.2645><9.248901~167.8222~2~3, ReliableSpear><481.579><1133.678><, NoSpearStickZone><978.4158><992.9227><2.134399~148.3556, NoSpearStickZone><237.8892><948.4089><-5.691681~166.1333, 
+FadePalette: 42, 0.1630435, 0.1630435
+WetTerrain: OFF
+BackgroundOffset: -26.6099,722.6032
+BackgroundType: atc_oe_treetopview
