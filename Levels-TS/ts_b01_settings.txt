@@ -1,0 +1,13 @@
+Template: NONE
+Clouds: 0.3695652
+Grime: 0
+BkgDroneVolume: 0.2891305
+Palette: 53
+EffectColorA: 13
+EffectColorB: 13
+Effects: Bloom-0.4896061-83-63, TinyDragonFly-0.07733237-20-20, 
+PlacedObjects: GooieDuck><1983.063><517.8824><0~0~2~3, GooieDuck><1934.285><580.9897><0~0~2~5, 
+FadePalette: 42, 0.1630435, 0.1630435
+WetTerrain: OFF
+BackgroundOffset: -26.6099,26.6099
+BackgroundType: atc_pinksky
